@@ -1,0 +1,44 @@
+{"level":30,"time":1735709655346,"pid":15324,"hostname":"DESKTOP-2D70U9T","msg":"Logging to a specific file via transport"}
+{"level":50,"time":1735709655347,"pid":15324,"hostname":"DESKTOP-2D70U9T","msg":"Another log example"}
+{"level":30,"time":1735709687280,"pid":8588,"hostname":"DESKTOP-2D70U9T","msg":"Logging to a specific file via transport"}
+{"level":50,"time":1735709687281,"pid":8588,"hostname":"DESKTOP-2D70U9T","msg":"Another log example"}
+{"level":30,"time":1735709692126,"pid":8480,"hostname":"DESKTOP-2D70U9T","msg":"Logging to a specific file via transport"}
+{"level":50,"time":1735709692127,"pid":8480,"hostname":"DESKTOP-2D70U9T","msg":"Another log example"}
+{"level":50,"time":1735709692127,"pid":8480,"hostname":"DESKTOP-2D70U9T","msg":"Error"}
+{"level":30,"time":1735709694266,"pid":7764,"hostname":"DESKTOP-2D70U9T","msg":"Logging to a specific file via transport"}
+{"level":50,"time":1735709694267,"pid":7764,"hostname":"DESKTOP-2D70U9T","msg":"Another log example"}
+{"level":50,"time":1735709694267,"pid":7764,"hostname":"DESKTOP-2D70U9T","msg":"Error"}
+{"level":30,"time":1735709750699,"pid":5700,"hostname":"DESKTOP-2D70U9T","msg":"Logging to a specific file via transport"}
+{"level":50,"time":1735709750700,"pid":5700,"hostname":"DESKTOP-2D70U9T","msg":"Another log example"}
+{"level":50,"time":1735709750700,"pid":5700,"hostname":"DESKTOP-2D70U9T","msg":"Error"}
+{"level":30,"time":1735709752054,"pid":13368,"hostname":"DESKTOP-2D70U9T","msg":"Logging to a specific file via transport"}
+{"level":50,"time":1735709752055,"pid":13368,"hostname":"DESKTOP-2D70U9T","msg":"Another log example"}
+{"level":50,"time":1735709752056,"pid":13368,"hostname":"DESKTOP-2D70U9T","msg":"Error"}
+{"level":30,"time":1735709766376,"pid":15800,"hostname":"DESKTOP-2D70U9T","msg":"Logging to a specific file via transport"}
+{"level":50,"time":1735709766377,"pid":15800,"hostname":"DESKTOP-2D70U9T","msg":"Another log example"}
+{"level":50,"time":1735709766377,"pid":15800,"hostname":"DESKTOP-2D70U9T","msg":"Error"}
+{"level":30,"time":1735709779197,"pid":6108,"hostname":"DESKTOP-2D70U9T","msg":"Logging to a specific file via transport"}
+{"level":50,"time":1735709779198,"pid":6108,"hostname":"DESKTOP-2D70U9T","msg":"Another log example"}
+{"level":50,"time":1735709779198,"pid":6108,"hostname":"DESKTOP-2D70U9T","msg":"Error"}
+{"level":30,"time":1735709781194,"pid":16708,"hostname":"DESKTOP-2D70U9T","msg":"Logging to a specific file via transport"}
+{"level":50,"time":1735709781195,"pid":16708,"hostname":"DESKTOP-2D70U9T","msg":"Another log example"}
+{"level":50,"time":1735709781195,"pid":16708,"hostname":"DESKTOP-2D70U9T","msg":"Error"}
+{"level":30,"time":1735709781838,"pid":16468,"hostname":"DESKTOP-2D70U9T","msg":"Logging to a specific file via transport"}
+{"level":50,"time":1735709781839,"pid":16468,"hostname":"DESKTOP-2D70U9T","msg":"Another log example"}
+{"level":50,"time":1735709781839,"pid":16468,"hostname":"DESKTOP-2D70U9T","msg":"Error"}
+{"level":30,"time":1735709785056,"pid":13380,"hostname":"DESKTOP-2D70U9T","msg":"Logging to a specific file via transport"}
+{"level":50,"time":1735709785057,"pid":13380,"hostname":"DESKTOP-2D70U9T","msg":"Another log example"}
+{"level":50,"time":1735709785057,"pid":13380,"hostname":"DESKTOP-2D70U9T","msg":"Error"}
+{"level":30,"time":1735709805949,"pid":9328,"hostname":"DESKTOP-2D70U9T","msg":"Logging to a specific file via transport"}
+{"level":50,"time":1735709805949,"pid":9328,"hostname":"DESKTOP-2D70U9T","msg":"Another log example"}
+{"level":50,"time":1735709805949,"pid":9328,"hostname":"DESKTOP-2D70U9T","msg":"Error"}
+{"level":30,"time":1735709809924,"pid":15356,"hostname":"DESKTOP-2D70U9T","msg":"Logging to a specific file via transport"}
+{"level":50,"time":1735709809924,"pid":15356,"hostname":"DESKTOP-2D70U9T","msg":"Another log example"}
+{"level":50,"time":1735709809924,"pid":15356,"hostname":"DESKTOP-2D70U9T","msg":"Error"}
+{"level":30,"time":1735709811033,"pid":256,"hostname":"DESKTOP-2D70U9T","msg":"Logging to a specific file via transport"}
+{"level":50,"time":1735709811034,"pid":256,"hostname":"DESKTOP-2D70U9T","msg":"Another log example"}
+{"level":50,"time":1735709811034,"pid":256,"hostname":"DESKTOP-2D70U9T","msg":"Error"}
+{"level":30,"time":1735709819774,"pid":15560,"hostname":"DESKTOP-2D70U9T","msg":"Logging to a specific file via transport"}
+{"level":50,"time":1735709819775,"pid":15560,"hostname":"DESKTOP-2D70U9T","msg":"Another log example"}
+{"level":50,"time":1735709819775,"pid":15560,"hostname":"DESKTOP-2D70U9T","msg":"Error"}
+{"level":50,"time":1735709819775,"pid":15560,"hostname":"DESKTOP-2D70U9T","msg":"Error"}
